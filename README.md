@@ -1,3 +1,4 @@
+[![MasterHead]([https://media-exp1.licdn.com/dms/imag...](https://www.canva.com/design/DAFCYwSB220/695zc4gmb70-U4Kqx4seQg/view?utm_content=DAFCYwSB220&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel))]
 <h1 align="center">Hi 👋, I'm Mitesh Chandra</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
